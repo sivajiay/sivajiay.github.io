@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Pulkit Kinra
+
+I am a Data Scientist, practising my AI and Machine Learning to grab new oppurtunities and work to enhance my skills.
 
 You can use the [editor on GitHub](https://github.com/pulkitkinra01/pulkitkinra.ai/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
